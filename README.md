@@ -1,7 +1,5 @@
 # NecerLixin
-Here’s an expanded version of your GitHub introduction in English:
-
-👋 Hi there! I’m an undergraduate student at Huazhong Agricultural University, majoring in Artificial Intelligence. My primary interests lie in Machine Learning, Deep Learning, and Natural Language Processing (NLP). I am passionate about exploring how these technologies can be applied to solve real-world problems and improve our understanding of intelligent systems.
+👋 Hi there! My name is Li Jinliang I’m an undergraduate student at Huazhong Agricultural University, majoring in Artificial Intelligence. My primary interests lie in Machine Learning, Deep Learning, and Natural Language Processing (NLP). I am passionate about exploring how these technologies can be applied to solve real-world problems and improve our understanding of intelligent systems.
 
 🌱 Currently, I’m building my knowledge base in both the theoretical and practical aspects of AI. I’m diving deep into algorithms, model optimization, and their applications across various domains. Some of my key areas of focus include:
 
